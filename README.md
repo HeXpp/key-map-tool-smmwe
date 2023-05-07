@@ -5,7 +5,7 @@ Lo puedes encontrar junto a la descarga en github o dentro del programa, donde p
 
 
 
-![image](https://user-images.githubusercontent.com/97027903/236642716-f504db64-bf57-423d-88f7-c84379b229ff.png)
+![image](https://user-images.githubusercontent.com/97027903/236678384-0b757ae3-8314-4289-9d4b-06bf527db7ac.png)
 ![image](https://user-images.githubusercontent.com/97027903/236642741-b424b4f3-d5eb-4fed-8d06-ec4e8d9d0f4d.png)
 ![image](https://user-images.githubusercontent.com/97027903/236642763-971ca6e5-e40e-4086-9405-92c741c9bf73.png)
 
