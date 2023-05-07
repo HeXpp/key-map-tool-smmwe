@@ -1,4 +1,4 @@
-# Key Map Tool for SMMWE
+![maxresdefault-Recuperado](https://user-images.githubusercontent.com/97027903/236682950-43165357-8755-4132-b1f0-c5f6d4c8b425.png)
 Herramienta bastante útil para remapear los controles en SMMWE. Compatible con SMMWE 3.2.7.
 Es importante saber que para entender su uso, es necesario ver el pdf-guía.
 Lo puedes encontrar junto a la descarga en github o dentro del programa, donde puedes acceder a el pulsando el icono del PDF.
